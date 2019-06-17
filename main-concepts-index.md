@@ -3,6 +3,7 @@
 2019-06-07 -> 2019-06-15
 
 # workspace: src, bin and pkg 
+- https://golang.org/doc/install
 - http://www.golangbootcamp.com/book
 - https://career.guru99.com/top-20-go-programming-interview-questions/
 - https://github.com/golang/go/wiki/GOPATH
