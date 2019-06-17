@@ -40,6 +40,7 @@
 - https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial
 
 # main advantages of go
+- http://www.golangbootcamp.com/book
 - https://career.guru99.com/top-20-go-programming-interview-questions/
 - https://www.freecodecamp.org/news/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a/
 - https://www.onlineinterviewquestions.com/golang-interview-questions/
@@ -136,3 +137,9 @@
 
 # error handling
 - https://www.tutorialspoint.com/go/ - complete course
+
+# crosscompile
+- http://www.golangbootcamp.com/book
+
+# go tools
+- http://www.golangbootcamp.com/book
