@@ -26,6 +26,7 @@
 - https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
 - https://miek.nl/go/
 - https://www.onlineinterviewquestions.com/golang-interview-questions/
+- https://github.com/golang/go/wiki/GOPATH
 
 # concurrency, goroutines and differences from threads 
 - https://medium.com/@riteeksrivastava/a-complete-journey-with-goroutines-8472630c7f5c
