@@ -40,6 +40,7 @@
 - https://www.ardanlabs.com/categories/go-programing/ - collection of blog posts
 - https://www.cosmiclearn.com/go/ - basic
 - https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial
+- https://www.youtube.com/watch?v=cN_DpYBzKso&list=WL&index=6&t=0s
 
 # main advantages of go
 - http://www.golangbootcamp.com/book
