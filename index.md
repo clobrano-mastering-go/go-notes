@@ -15,6 +15,7 @@
 - https://www.onlineinterviewquestions.com/golang-interview-questions/
 - https://www.toptal.com/go/interview-questions
 - https://www.tutorialspoint.com/go/ - complete course
+- https://golang.org/cmd/go/#hdr-GOPATH_environment_variable
 
 # how packages works and how to build them
 - http://golangtutorials.blogspot.com/2011/05/table-of-contents.html
