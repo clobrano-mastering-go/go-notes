@@ -53,5 +53,9 @@ This file contains temporary notes
     + remote paths are used for common hosting services (bitbucket, github, gitlab...)
     + VCS extension identifies the VCS for other hosting (import `example.org/foo.git`)
 
+- modules (go v1.11)
+    + collection of related packages
+    + replace the GOPATH-based approach to identify which packages a build uses
+
 Open points: GOOS, GOARCH, GOROOT, Modules
 
