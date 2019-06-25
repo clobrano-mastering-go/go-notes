@@ -9,7 +9,7 @@
 - https://github.com/golang/go/wiki/GOPATH
 - https://golang.org/doc/code.html
 - https://thenewstack.io/understanding-golang-packages/
-- https://golang.org/doc/code.htma
+- https://golang.org/doc/code.html
 - https://golangcode.com/
 - https://medium.com/rungo/working-in-go-workspace-3b0576e0534a - basic
 - https://www.onlineinterviewquestions.com/golang-interview-questions/
