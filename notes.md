@@ -19,7 +19,7 @@ This file contains temporary notes
 - go tools prevent overriding default packages: e.g. a `$GOPATH/src/cmd/mycmd...` project
   won't be built because `cmd` is a default package. Basically the check is done looking into
   `GOROOT` first, it includes some directories, a `cmd` named one as well, so it will skip
-  any `cmd` directory inside `GOPATH`
+  any `cmd` directory inside `GOPATH` (`GOROOT` is the path to the go distribution binaries installation, it defaults to `/usr/local/go` in Linux);
 
 - directory organization
     + `$GOPATH/src`: root for source code (new one, as well as downloaded). It determines the
@@ -56,6 +56,3 @@ This file contains temporary notes
 - modules (go v1.11)
     + collection of related packages
     + replace the GOPATH-based approach to identify which packages a build uses
-
-Open points: GOOS, GOARCH, GOROOT, Modules
-
