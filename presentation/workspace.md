@@ -56,3 +56,31 @@ Used for including custom (or *vendor*) versions of a package.
 
 Vendor `outerpkg` is imported only by the source rooted at
 the same package level as vendor `outerpkg` is.
+
+
+# Module proxy protocol
+
+## general
+- GOPROXY env variable
+- control the source of downloaded modules:
+    - undefined or 'default': packages are downloaded from VCS service
+    - off: prevent module downloads
+    - URL: packages are downloaded from the proxy module webserver at the given URL
+
+## proxy module
+- a web service able to respond to GET requests with a proper (simple) protocol.
+
+
+# Import paths
+
+- identify univocally the package
+- path can be absolute, relative and remote (e.g. related to github)
+- VCS type is identified by the extension
+    - whatever/mypackage**.bzr**
+    - github/mypackage**.git**
+
+# Modules (go v1.11)
+
+- collection of co-related go packages
+- source code doesn't need to stay in the same workspace
+- will replace $GOPATH-based approach
