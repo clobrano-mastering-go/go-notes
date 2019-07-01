@@ -3,22 +3,24 @@
 2019-06-07 -> 2019-06-15
 
 # workspace: src, bin and pkg 
-- https://golang.org/doc/install
-- http://www.golangbootcamp.com/book
-- https://career.guru99.com/top-20-go-programming-interview-questions/
-- https://github.com/golang/go/wiki/GOPATH
-- https://golang.org/doc/code.html
-- https://thenewstack.io/understanding-golang-packages/
-- https://golang.org/doc/code.html
-- https://golangcode.com/
-- https://medium.com/rungo/working-in-go-workspace-3b0576e0534a - basic
-- https://www.onlineinterviewquestions.com/golang-interview-questions/
-- https://www.toptal.com/go/interview-questions
-- https://www.tutorialspoint.com/go/ - complete course
-- https://golang.org/cmd/go/#hdr-GOPATH_environment_variable
+- x https://golang.org/doc/install
+- x http://www.golangbootcamp.com/book
+- x https://career.guru99.com/top-20-go-programming-interview-questions/
+- x https://github.com/golang/go/wiki/GOPATH
+- x https://golang.org/doc/code.html
+- x https://thenewstack.io/understanding-golang-packages/
+- x https://golang.org/doc/code.html
+- x https://golangcode.com/
+- x https://medium.com/rungo/working-in-go-workspace-3b0576e0534a - basic
+- x https://www.onlineinterviewquestions.com/golang-interview-questions/
+- x https://www.toptal.com/go/interview-questions
+- x https://www.tutorialspoint.com/go/ - complete course
+- x https://golang.org/cmd/go/#hdr-GOPATH_environment_variable
 
 # how packages works and how to build them
-- http://golangtutorials.blogspot.com/2011/05/table-of-contents.html
+- ! http://golangtutorials.blogspot.com/2011/05/table-of-contents.html
+    - http://golangtutorials.blogspot.com/2011/05/very-simple-go-hello-world-line-by-line.html
+    - http://golangtutorials.blogspot.com/2011/10/go-packages-and-goinstall-creating-and.html
 - http://www.golangbootcamp.com/book
 - https://thenewstack.io/understanding-golang-packages/
 - https://career.guru99.com/top-20-go-programming-interview-questions/
